@@ -1,0 +1,13 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="100" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+    <ScalaCodeStyleSettings>
+      <option name="USE_SCALADOC2_FORMATTING" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="EXTENDS_KEYWORD_WRAP" value="1" />
+      <option name="WRAP_LONG_LINES" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
